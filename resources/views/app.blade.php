@@ -8,7 +8,8 @@
     @vite('resources/css/app.css')
 </head>
 <body>
-    <h1>App test ok</h1>
+    <h1>App test ok V2</h1>
+    <p>testttttttt</p>
     <hr>
     <div id="app-vue"></div>
     @vite('resources/js/app.js')
